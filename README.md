@@ -1,6 +1,6 @@
-- **Name:** [Your Name]  
-- **PRN:** [Your PRN]  
-- **Batch:** [Your Batch]  
+- **Name :** `Vidish Ketankumar Mistry`
+- **PRN :** `23070126146`  
+- **Batch :** `B-3`  
 
 ---
 
